@@ -1,4 +1,6 @@
 # hello-world
-Try something new
+Try something
 
 Add something new
+
+Delete something
